@@ -9,10 +9,9 @@
 
 #### Me acompanhe por:
 
-
 [![Website](https://img.shields.io/badge/website-black?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://gael.codaweb.com.br) |  [![Twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/eugaelgomes) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gael-rene-gomes/)
 
-![Vanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=euvangomes&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugaelgomes&show_icons=true&theme=radical)
 
 ## Minhas Stacks
 
@@ -27,4 +26,4 @@
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" style="border-radius: 4px" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euvangomes&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugaelgomes&layout=compact)
