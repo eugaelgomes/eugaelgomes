@@ -1,13 +1,13 @@
-# **Hi there, I'm Gael Gomes 👋**
+# **Hello guys, I'm Gael Gomes 👋**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gael-rene-gomes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:gael@codaweb.com.br">
+  <a href="mailto:hello@gaelgomes.dev">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a> 
-  <a href="https://codaweb.com.br" target="_blank">
+  <a href="https://gaelgomes.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-4B275F?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </div>
@@ -39,12 +39,14 @@ I'm currently focused on developing my skills in Full-Stack development, with a 
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 #### 💻 Featured Projects
 
 - **[[Codaweb AI 2.0](https://ai.codaweb.com.br)]** - AI chat with multiple LLM models.
+- **[[Auth Flow API](https://github.com/eugaelgomes/auth-flow-api)]** - API to menage users access
 
 ---
