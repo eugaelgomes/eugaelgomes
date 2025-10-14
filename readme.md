@@ -1,36 +1,32 @@
-# **Hello guys, I'm Gael Gomes 👋**
-
 <div align="left">
   <a href="https://www.linkedin.com/in/gael-rene-gomes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a> 
   <a href="mailto:hello@gaelgomes.dev">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a> 
+  </a> 
   <a href="https://gaelgomes.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4B275F?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Site-4B275F?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </div>
+Getting Better Every Day
 
+#### Interest
 
-#### 🧑‍💻 About Me
+* Full-Stack development
+* AI-based applications and services
+* Data analysis
+* And not least: share knowlege with others
 
-Software Developer (in learning) passionate about creating efficient and scalable solutions.
-I'm currently focused on developing my skills in Full-Stack development, with a particular interest in UI/UX design.
+#### What I'am doing?
 
-#### 🎯 My Goals
+* Understanding programming logic, fundamentals, and best practices
+* Using AI to boost my personal and professional growth
+* Languages: Learning Python, JavaScript, TypeScript, and SQL
+* Tools/DevOps bases: Docker, Kubernetes, Linux servers, and cloud workflows(jobs, actions)
+* Project workflows
 
-- Backend Development with Node.js
-- Frontend Development with React and Next.js
-- UI/UX Design
-
-#### 📚 What I'm doing now
-
-* Watching good courses about JS/TS, Node and React;
-* Improve my Design skills;
-* Learning about project management.
-
-#### 🛠️ Skills and Tools
+#### Skills
 
 <div style="display: inline_block; background-color: #0D1117; padding: 15px; border-radius: 10px;">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,9 +40,8 @@ I'm currently focused on developing my skills in Full-Stack development, with a 
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-#### 💻 Featured Projects
+#### Stats
 
-- **[[Codaweb AI 2.0](https://ai.codaweb.com.br)]** - AI chat with multiple LLM models.
-- **[[Auth Flow API](https://github.com/eugaelgomes/auth-flow-api)]** - API to menage users access
+![eugaelgomes's Stats](https://github-readme-stats.vercel.app/api?username=eugaelgomes&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
----
+![eugaelgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eugaelgomes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
