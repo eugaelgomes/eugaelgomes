@@ -4,10 +4,9 @@ Curioso, autodidata e movido a café ☕💻
 
 ```typescript
 const interests = {
-  fullStack: "Desenvolvimento completo de aplicações web",
+  fullStack: "Desenvolvimento de apps web e apis",
   ai: "IA aplicada a produtos e serviços",
-  data: "Análise e visualização de dados",
-  community: "Compartilhar conhecimento e aprender junto"
+  data: "Análise e visualização de dados"
 };
 ```
 
