@@ -1,4 +1,4 @@
-# E aí, jovem! Me chamo Gael 👾
+# E aì? Bem-vindo ao meu perfil ;)
 
 Curioso, autodidata e movido a café ☕💻
 
@@ -20,7 +20,7 @@ const interests = {
 
 ## Stats
 
-![eugaelgomes's Stats](https://github-readme-stats.vercel.app/api?username=eugaelgomes&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) ![eugaelgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eugaelgomes&theme=vue-dark&show_icons=true&hide_border=true&layout=donut)
+![eugaelgomes's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eugaelgomes&theme=vue) ![eugaelgomes's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eugaelgomes&theme=vue)
 
 ## Stacks
 
